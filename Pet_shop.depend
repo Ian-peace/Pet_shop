@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1502958594 source:f:\c++\pet_shop\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<fstream>
+	"Menu.h"
+	"Pet_system.h"
+	"User_system.h"
+	"Bill_system.h"
+	"Stock_system.h"
+
+1502960503 f:\c++\pet_shop\pet_system.h
+
+1503877810 f:\c++\pet_shop\user_system.h
+
+1502959049 f:\c++\pet_shop\bill_system.h
+	<ctime>
+
+1502959041 f:\c++\pet_shop\stock_system.h
+
+1502958903 f:\c++\pet_shop\menu.h
+
